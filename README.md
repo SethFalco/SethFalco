@@ -1,3 +1,6 @@
+# Projects
+Everything I do is contributed to the [@elypia](https://github.com/elypia/) organization, or other open-source projects that I or Elypia depend on. If you're interested in the projects I maintain, please check Elypia, or my contribution history which includes contributions to other repositories.
+
 # About Me
 I'm in love with the idea of trying to work collaboratively as a community to push technology forward and promote innovation.
 
