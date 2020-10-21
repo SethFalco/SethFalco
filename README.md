@@ -1,10 +1,13 @@
 # Projects
-Everything I do is contributed to the [@elypia](https://github.com/elypia/) organization, or other open-source projects that I or Elypia depend on. If you're interested in the projects I maintain, please check Elypia, or my contribution history which includes contributions to other repositories.
+Everything I do is contributed to the [@elypia](https://github.com/elypia/) organization,
+or other open-source projects that I or Elypia depend on. If you're interested in the projects
+I maintain, please check Elypia, or my contribution history which includes contributions to
+other repositories.
 
 # About Me
-I'm in love with the idea of trying to work collaboratively as a community to push technology forward and promote innovation.
+I'm inspired by the idea of working collaboratively as a community to push open technology forward and promote innovation.
 
-The [Open Source Initiative](https://opensource.org/) and [Creative Commons](https://creativecommons.org/) are especially interesting to me, and I've decided to dedicate my future around these and the values they hold.
+The [Open Source Initiative](https://opensource.org/) and [Creative Commons](https://creativecommons.org/) are especially of interest to me, and has led me to dedicate my future to the community interest.
 
 While I don't play much anymore, I'm also quite keen on video games and sometimes join my partner while she's streaming on [Twitch](https://www.twitch.tv/JenTheBluePanda)! 
 
