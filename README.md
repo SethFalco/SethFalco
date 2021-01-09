@@ -1,16 +1,16 @@
 ## About Me
 I'm inspired by the idea of working collaboratively as a community to push open
 technology forward. I want to live in a world where there is software for
-everything, freely accesible to everyone.
+everything, freely accessible to everyone.
 
 The [Open Source Initiative][osi] and [Creative Commons][creative-commons] are
 especially interesting to me, and have led me to dedicate my future to the
 community interest.
 
-Everything I do is contributed to community focused projects; ideally free from
-cost, free from tracking or advertising, and open-source. I primarily develop
-and maintain software, and love contributing to open-source projects that I find
-interesting or depend on for my own projects.
+Everything I do is contributed to open-source projects; ideally free from cost,
+tracking, and advertising. I primarily develop and maintain software, and love
+contributing to open-source projects that I find interesting or depend on for
+my own projects.
 
 ## Career
 My ideals and values align well with software development, so I incorporated
