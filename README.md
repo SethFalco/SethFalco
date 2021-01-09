@@ -1,22 +1,30 @@
-# Projects
-Everything I do is contributed to the [@elypia](https://github.com/elypia/) organization,
-or other open-source projects that I or Elypia depend on. If you're interested in the projects
-I maintain, please check Elypia, or my contribution history which includes contributions to
-other repositories.
+## About Me
+I'm inspired by the idea of working collaboratively as a community to push open
+technology forward. I want to live in a world where there is software for
+everything, freely accesible to everyone.
 
-# About Me
-I'm inspired by the idea of working collaboratively as a community to push open technology forward and promote innovation.
+The [Open Source Initiative][osi] and [Creative Commons][creative-commons] are
+especially interesting to me, and have led me to dedicate my future to the
+community interest.
 
-The [Open Source Initiative](https://opensource.org/) and [Creative Commons](https://creativecommons.org/) are especially of interest to me, and has led me to dedicate my future to the community interest.
+Everything I do is contributed to community focused projects; ideally free from
+cost, free from tracking or advertising, and open-source. I primarily develop
+and maintain software, and love contributing to open-source projects that I find
+interesting or depend on for my own projects.
 
-While I don't play much anymore, I'm also quite keen on video games and sometimes join my partner while she's streaming on [Twitch](https://www.twitch.tv/JenTheBluePanda)! 
+## Career
+My ideals and values align well with software development, so I incorporated
+[Elypia][elypia-website], a [community interest company (CIC)][wikipedia-cic]
+that's looking to: 
 
-# Career
-My ideals and values align perfectly with software development, so I incorporated and am now directing a non-profit [community interest company](https://en.wikipedia.org/wiki/Community_interest_company) (CIC) in the UK called [Elypia](https://elypia.org/). Elypia's goal is to develop free and open-source software for everyone. 
+* Develop software to lower the level of entry into particular industries.
+* Create open-source software for industries with only proprietary, or legacy
+  options available.
+* Promote education by providing a bridge to enterprise tools and libraries
+  with smaller use-cases.
 
-We're interested in:
-* Developing software that can help lower the level of entry into particular industries.
-* Developing applications for free availability for specialized industries that only have paid, proprietary, or legacy options available.
-* Promoting education by providing a bridge to enterprise tools and libraries with smaller use-cases.
-
-If any of the above interests you, please feel free to check out the [@elypia](https://github.com/elypia/) organization on GitHub or visit our website [here](https://elypia.org/). Almost everything I do outside of contributions to third-party open-source repositories lives here. As a non-profit, funds are always looking painful, so if anything we do is of interest to you, or aids you in your aspirations, feel free to [donate](https://elypia.org/donate)!
+[creative-commons]: https://creativecommons.org/
+[elypia-github]: https://github.com/elypia/
+[elypia-website]: https://elypia.org/
+[osi]: https://opensource.org/
+[wikipedia-cic]: https://en.wikipedia.org/wiki/Community_interest_company
