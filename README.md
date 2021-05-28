@@ -8,7 +8,7 @@ tracking, and advertising. I primarily develop and maintain software, and love
 contributing to projects that I find interesting or depend on.
 
 ## Career
-My ideals and values align well with software development, so I incorporated
+My ideals align well with non-profits and open-source, so I incorporated
 [Elypia][elypia-website], a [Community Interest Company (CIC)][wikipedia-cic]
 that's looking to: 
 
