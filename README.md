@@ -11,7 +11,7 @@ Everything I do is contributed to open-source projects; ideally free from cost, 
 
 ## Career
 
-My ideals align well with non-profits and open-source, so I incorporated [Elypia][https://elypia.org/], a [Community Interest Company (CIC)][https://en.wikipedia.org/wiki/Community_interest_company] that's looking to: 
+My ideals align well with non-profits and open-source, so I incorporated [Elypia](https://elypia.org/), a [Community Interest Company (CIC)](https://en.wikipedia.org/wiki/Community_interest_company) that's looking to: 
 
 * Create open-source software for industries with only proprietary, or legacy options available.
 * Develop software to lower the level of entry into particular industries.
