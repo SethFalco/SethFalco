@@ -16,7 +16,7 @@ end_of_line = crlf
 [*.cs]
 curly_bracket_next_line = true
 
-[*.{cpp,cs,gradle,java,kt,py,rs}]
+[*.{cpp,cs,gradle,java,kt,php,phtml,py,rs}]
 indent_size = 4
 
 [*.go]
