@@ -1,13 +1,13 @@
 ## About Me
 
-I want to work collaboratively to push open technology forward, and live in a world where there's software for everything, freely accessible to everyone. We should no longer solve problems just to hinder accessibility to the solutions.
+I work collaboratively to push open technology forward, and want to live in a world where there's software for everything, freely accessible by everyone. We should no longer only solve problems just to hinder access to solutions.
 
 Everything I do is contributed to open-source projects; ideally free from cost, tracking, and advertising. I primarily develop and maintain software, and love contributing to projects that I find interesting or depend on.
 
 ## Achievements
 
-* Writer for [freeCodeCamp](https://www.freecodecamp.org/news/author/seth/) with 125,000+ page views.
-* Visual Studio Code extension developer with 15,000+ installs.
+* Writer for [freeCodeCamp](https://www.freecodecamp.org/news/author/seth/) with 150,000+ page views.
+* Visual Studio Code extension developer with 20,000+ installs.
 
 ## Career
 
