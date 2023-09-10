@@ -8,7 +8,6 @@ Everything I do is contributed to open-source projects, ideally free from cost, 
 
 * Writer for [freeCodeCamp](https://www.freecodecamp.org/news/author/seth/) with 150,000+ page views.
 * Visual Studio Code extension developer with 20,000+ installs.
-* Created translation datasets for [OPUS](https://opus.nlpl.eu/) from sources like [tldr](https://github.com/tldr-pages/tldr).
 
 ## Available for Work
 
@@ -19,11 +18,11 @@ I'm available to hire on a contract-basis, and willing to accept a variety of pr
 * Significant feature developments and integrations for open-source projects I maintain.
 * Larger projects from the ground up.
 
-Read my [GitHub Sponsors](https://github.com/sponsors/SethFalco/) page or email me for more info. 
+Read my [GitHub Sponsors](https://github.com/sponsors/SethFalco/) page or [email me](mailto:seth@falco.fun) for more info. 
 
 ## Career
 
-My ideals align with non-profits, so I incorporated [Elypia](https://elypia.org/), a [community interest company (CIC)](https://en.wikipedia.org/wiki/Community_interest_company) with the mission to: 
+My ideals align with non-profits, so I incorporated Elypia, a [community interest company (CIC)](https://en.wikipedia.org/wiki/Community_interest_company) with the mission to: 
 
 * Develop, contribute to, and promote the adoption of free and open-source software.
 * Support industries with only proprietary or legacy software available, to migrate to or create open-source alternatives.
