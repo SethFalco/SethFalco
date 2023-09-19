@@ -4,10 +4,11 @@ I work collaboratively to push open technology forward, and want to live in a wo
 
 Everything I do is contributed to open-source projects, ideally free from cost, tracking, and advertising. I primarily develop and maintain software, and love contributing to projects that I find interesting or depend on.
 
-## Achievements and Notable Contributions
+## Notable Achievements / Contributions
 
 * Writer for [freeCodeCamp](https://www.freecodecamp.org/news/author/seth/) with 150,000+ page views.
 * Visual Studio Code extension developer with 20,000+ installs.
+* Produced a corpus for [OPUS](https://opus.nlpl.eu/tldr-pages.php) from [tldr](https://github.com/tldr-pages/tldr).
 
 ## Available for Work
 
