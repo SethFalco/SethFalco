@@ -8,7 +8,7 @@ Most of what I do is contributed to open-source projects, ideally free from cost
 
 * Writer for [freeCodeCamp](https://www.freecodecamp.org/news/author/seth/) with 150,000+ page views.
 * Visual Studio Code extension author with 20,000+ installs.
-* Created [tldr-translation-pairs-gen](https://github.com/tldr-pages/tldr-translation-pairs-gen), to produce a [parralel corpus](https://opus.nlpl.eu/tldr-pages.php) from [tldr-pages](https://github.com/tldr-pages/tldr).
+* Created [tldr-translation-pairs-gen](https://github.com/tldr-pages/tldr-translation-pairs-gen), to produce a [parralel corpus](https://opus.nlpl.eu/tldr-pages/corpus/version/tldr-pages) from [tldr-pages](https://github.com/tldr-pages/tldr).
 
 ## Available for Work
 
