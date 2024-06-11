@@ -2,7 +2,7 @@
 
 I work collaboratively to push open technology forward, and want to live in a world where there's software for everything, freely accessible by everyone. We should no longer only solve problems, just to hinder access to solutions.
 
-Most of what I do is contributed to open-source projects, ideally free from cost, tracking, and advertising. I primarily develop and maintain software, and love contributing to projects that I find interesting or depend on.
+Most of what I do is contributed to open-source projects, ideally free from cost, tracking, and advertising.
 
 ## Notable Achievements / Contributions
 
