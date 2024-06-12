@@ -16,7 +16,7 @@ Most of what I do is contributed to open-source projects, ideally free from cost
 I'm available to hire on a contract-basis, and willing to accept a variety of projects:
 
 * Resolve bugs or feature requests in an open-source project (i.e. upstream dependency).
-* Learn and contribute to technical documentation for inadequately documented software.
+* Learn and contribute to technical documentation.
 * Significant feature developments and integrations for open-source projects I maintain.
 * Larger projects from the ground up.
 
