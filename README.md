@@ -2,7 +2,7 @@
 
 I work collaboratively to push open technology forward, and want to live in a world where there's software for everything, freely accessible by everyone. We should no longer only solve problems, just to hinder access to solutions.
 
-Most of what I do is contributed to open-source projects, ideally free from cost, tracking, and advertising.
+Most of what I do is contributed to Open Source projects, ideally free from cost, tracking, and advertising.
 
 ## Notable Achievements
 
@@ -15,9 +15,9 @@ Most of what I do is contributed to open-source projects, ideally free from cost
 
 I'm available for contract work, and willing to accept a variety of projects:
 
-* Resolve bugs or feature requests in open-source software, such as upstream dependencies.
-* Learn about and improve technical documentation for open-source software.
-* Significant feature developments and integrations for open-source software I maintain.
-* You get the idea! I want open-source software to be useful to you. If you need help maintaining open-source software, or need help incorporating open-source software into your workflow, hit me up.
+* Resolve bugs or feature requests in Open Source software, such as upstream dependencies.
+* Learn about and improve technical documentation for Open Source software.
+* Significant feature developments and integrations for Open Source software I maintain.
+* You get the idea! I want Open Source software to be useful to you. If you need help maintaining Open Source software, or need help incorporating Open Source software into your workflow, hit me up.
 
 Read my [GitHub Sponsors](https://github.com/sponsors/SethFalco/) page or [email me](mailto:seth@falco.fun) for more info.
