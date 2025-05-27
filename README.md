@@ -10,14 +10,3 @@ Most of what I do is contributed to Open Source projects, ideally free from cost
 * [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=elypia.magick-image-reader) author with 25,000+ installs.
 * [Thunderbird add-on](https://addons.thunderbird.net/thunderbird/user/SethFalco/) with 100+ daily active users.
 * Created [tldr-translation-pairs-gen](https://github.com/tldr-pages/tldr-translation-pairs-gen), to produce a [parralel corpus](https://opus.nlpl.eu/tldr-pages/corpus/version/tldr-pages) from [tldr-pages](https://github.com/tldr-pages/tldr).
-
-## Available to Contract
-
-I'm available for contract work, and willing to accept a variety of projects:
-
-* Resolve bugs or feature requests in Open Source software, such as upstream dependencies.
-* Learn about and improve technical documentation for Open Source software.
-* Significant feature developments and integrations for Open Source software I maintain.
-* You get the idea! I want Open Source software to be useful to you. If you need help maintaining Open Source software, or need help incorporating Open Source software into your workflow, hit me up.
-
-Read my [GitHub Sponsors](https://github.com/sponsors/SethFalco/) page or [email me](mailto:seth@falco.fun) for more info.
