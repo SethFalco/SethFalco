@@ -1,0 +1,16 @@
+{
+  "metrics": [
+    {
+      "name": "screenPageViews"
+    }
+  ],
+  "dateRanges": [
+    {
+      "startDate": "2023-09-03",
+      "endDate": "today"
+    }
+  ],
+  "dimensionFilter": {
+    "orGroup": {}
+  }
+}

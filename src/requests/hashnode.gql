@@ -1,0 +1,15 @@
+query {
+  searchPostsOfPublication(
+    first: 20
+    filter: {
+      publicationId: "HASHNODE_PUBLISHER_ID"
+      authorIds: "66e1b32b4cbfdeca358fe691"
+    }
+  ) {
+    edges {
+      node {
+        slug
+      }
+    }
+  }
+}
