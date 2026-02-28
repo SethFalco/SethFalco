@@ -8,6 +8,7 @@ RUN groupadd -g 1000 "$DOCKER_USER" && \
   apt-get update && \
   apt-get install -y --no-install-recommends ca-certificates curl git jq locales && \
   localedef -i en_GB -c -f UTF-8 -A /usr/share/locale/locale.alias en_GB.UTF-8 && \
+  su maid -c 'git config --global --add safe.directory /builds/*' && \
   rm -rf /var/lib/apt/lists/*
 
 # So printf can format numbers.
