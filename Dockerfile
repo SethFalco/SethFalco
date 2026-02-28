@@ -4,7 +4,7 @@ LABEL org.opencontainers.image.authors="seth@falco.fun"
 ARG DOCKER_USER=maid
 
 RUN groupadd -g 1000 "$DOCKER_USER" && \
-  useradd -g "$DOCKER_USER" -u 1000 -s /bin/bash "$DOCKER_USER" && \
+  useradd -m -g "$DOCKER_USER" -u 1000 -s /bin/bash "$DOCKER_USER" && \
   apt-get update && \
   apt-get install -y --no-install-recommends ca-certificates curl git jq locales && \
   localedef -i en_GB -c -f UTF-8 -A /usr/share/locale/locale.alias en_GB.UTF-8 && \
