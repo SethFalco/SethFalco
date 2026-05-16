@@ -12,7 +12,7 @@ build-docker-image:
   rules:
     - if: $CI_PIPELINE_SOURCE == "schedule"
       when: never
-    - when: always
+    - if: $CI_COMMIT_BRANCH != "main"
   services: &dind-services
     - docker:$DOCKER_VERSION-dind-alpine$ALPINE_VERSION
   script:
