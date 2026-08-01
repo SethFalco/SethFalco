@@ -22,17 +22,13 @@ EXISTING_VISITORS=150000
 PAGE_VIEW_BRACKET=25000
 
 SCRIPT_DIR=$(dirname "${BASH_SOURCE[0]}")
-HASHNODE_QUERY=$(sed "s/HASHNODE_PUBLISHER_ID/$HASHNODE_PUBLISHER_ID/" "$SCRIPT_DIR/requests/hashnode.gql")
-HASHNODE_REQUEST=$(jq -Rs '{ query: . }' <<< "$HASHNODE_QUERY")
 HASHNODE_RESPONSE=$(
   curl --fail -sS \
-    -X POST \
-    -d "$HASHNODE_REQUEST" \
     -H "Content-Type: application/json" \
-    'https://gql.hashnode.com'
+    'https://hashnode.com/api/profile/posts?limit=128&userId=66e1b32b4cbfdeca358fe691'
   )
 ARTICLE_SLUGS=$(
-  jq '.data.searchPostsOfPublication.edges[].node.slug' <<< "$HASHNODE_RESPONSE"
+  jq '.posts[].slug' <<< "$HASHNODE_RESPONSE"
 )
 GA_FILTERS=$(
   jq '[.,inputs] | map({
