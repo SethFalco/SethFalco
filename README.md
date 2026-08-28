@@ -15,4 +15,4 @@ Most of what I do is contributed to Open Source projects, ideally free from cost
 
 ## Personal Projects
 
-All of my personal projects are maintained on [GitLab](https://gitlab.com/SethFalco). I only use [GitHub](https://github.com/SethFalco) to contribute to Open Source and to maintain software that was already on GitHub before.
+All of my personal projects are maintained on [Codeberg](https://codeberg.org/SethFalco) 🇩🇪. I only use [GitLab](https://gitlab.com/SethFalco) and [GitHub](https://github.com/SethFalco) to contribute to Open Source and to maintain software that was already on them before.

@@ -1,0 +1,43 @@
+when:
+  - event: 'cron'
+    cron: 'update-profile'
+  - event: 'manual'
+
+clone:
+  - name: clone
+    image: docker.io/woodpeckerci/plugin-git@sha256:d4a2965bfa5418a2d8046b667fdf367f65663644c98a45d2700b082a579816e0
+    settings:
+      partial: false
+
+variables:
+  - &image ${CI_FORGE_URL##https://}/${CI_REPO_OWNER,,}/${CI_REPO_NAME##.}:latest
+
+steps:
+  sync:
+    image: *image
+    environment:
+      GA_PROPERTY_ID:
+        from_secret: ga_property_id
+      GOOGLE_CLIENT_ID:
+        from_secret: google_client_id
+      GOOGLE_CLIENT_SECRET:
+        from_secret: google_client_secret
+      GOOGLE_OAUTH_TOKEN:
+        from_secret: google_oauth_token
+    commands:
+      - './src/freecodecamp.sh > /tmp/README.md'
+      - |
+        if ! cmp -s ./README.md /tmp/README.md; then
+          cp /tmp/README.md ./README.md
+        fi
+  push:
+    image: docker.io/appleboy/drone-git-push@sha256:71458d7dad1813487b93f9d8546613c7f0c44aa4a29bb138b5eae378f7d6960a
+    settings:
+      remote: ${CI_REPO_CLONE_SSH_URL}
+      branch: ${CI_REPO_DEFAULT_BRANCH}
+      commit: true
+      commit_message: 'chore(scheduled): update readme stats'
+      author_name: 'Seth Falco'
+      author_email: 'seth@falco.fun'
+      ssh_key:
+        from_secret: codeberg_deploy_key

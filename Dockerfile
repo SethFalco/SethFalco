@@ -1,4 +1,4 @@
-FROM debian:trixie-slim
+FROM debian@sha256:d7e12182ce18b85b93007c1dedf31f2d29e01ccf3182cc4017c709b6259bc132
 LABEL org.opencontainers.image.authors="seth@falco.fun"
 
 ARG DOCKER_USER=maid
