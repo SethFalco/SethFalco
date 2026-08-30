@@ -1,6 +1,8 @@
 when:
   - event: pull_request
-    path: 'Dockerfile'
+    path:
+      - 'Dockerfile'
+      - '.dockerignore'
   - event: 'manual'
 
 variables:

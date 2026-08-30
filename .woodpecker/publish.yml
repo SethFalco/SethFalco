@@ -1,7 +1,9 @@
 when:
   - event: 'push'
     branch: 'main'
-    path: 'Dockerfile'
+    path:
+      - 'Dockerfile'
+      - '.dockerignore'
   - event: 'manual'
 
 variables:
