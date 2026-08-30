@@ -5,7 +5,7 @@ when:
 
 clone:
   - name: clone
-    image: docker.io/woodpeckerci/plugin-git@sha256:d4a2965bfa5418a2d8046b667fdf367f65663644c98a45d2700b082a579816e0
+    image: docker.io/woodpeckerci/plugin-git:2.10.0@sha256:d4a2965bfa5418a2d8046b667fdf367f65663644c98a45d2700b082a579816e0
     settings:
       partial: false
 
@@ -31,7 +31,7 @@ steps:
           cp /tmp/README.md ./README.md
         fi
   push:
-    image: docker.io/appleboy/drone-git-push@sha256:71458d7dad1813487b93f9d8546613c7f0c44aa4a29bb138b5eae378f7d6960a
+    image: docker.io/appleboy/drone-git-push:1.2.3@sha256:71458d7dad1813487b93f9d8546613c7f0c44aa4a29bb138b5eae378f7d6960a
     settings:
       remote: ${CI_REPO_CLONE_SSH_URL}
       branch: ${CI_REPO_DEFAULT_BRANCH}
