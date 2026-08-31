@@ -1,6 +1,6 @@
 root = true
 
-[*]
+[*.{json,md,sh,yml}]
 indent_style = space
 indent_size = 2
 end_of_line = lf
@@ -10,13 +10,5 @@ insert_final_newline = true
 curly_bracket_next_line = false
 spaces_around_operators = true
 
-[*.{markdown,md}]
+[*.md]
 trim_trailing_whitespace = false
-
-[/LICENSE]
-charset = unset
-end_of_line = unset
-indent_size = unset
-indent_style = unset
-insert_final_newline = unset
-trim_trailing_whitespace = unset
