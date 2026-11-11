@@ -6,10 +6,10 @@ Most of what I do is contributed to Open Source projects, ideally free from cost
 
 ## Notable Achievements
 
-* Writer for [freeCodeCamp](https://www.freecodecamp.org/news/author/sethfalco/) with VISITORS page views.
-* [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=elypia.magick-image-reader) author with 35,000+ installs.
-* [Thunderbird add-on](https://addons.thunderbird.net/thunderbird/user/SethFalco/) with 200+ daily active users.
-* Created [tldr-translation-pairs-gen](https://github.com/tldr-pages/tldr-translation-pairs-gen), to produce a [parallel corpus](https://opus.nlpl.eu/datasets/tldr-pages) from [tldr-pages](https://github.com/tldr-pages/tldr).
+- Writer for [freeCodeCamp](https://www.freecodecamp.org/news/author/sethfalco/) with VISITORS page views.
+- [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=elypia.magick-image-reader) author with 35,000+ installs.
+- [Thunderbird add-on](https://addons.thunderbird.net/thunderbird/user/SethFalco/) with 200+ daily active users.
+- Created [tldr-translation-pairs-gen](https://github.com/tldr-pages/tldr-translation-pairs-gen), to produce a [parallel corpus](https://opus.nlpl.eu/datasets/tldr-pages) from [tldr-pages](https://github.com/tldr-pages/tldr).
 
 ## Personal Projects
 
