@@ -9,12 +9,9 @@ clone:
     settings:
       partial: false
 
-variables:
-  - &image ${CI_FORGE_URL##https://}/${CI_REPO_OWNER,,}/${CI_REPO_NAME##.}:latest
-
 steps:
   sync:
-    image: *image
+    image: debian:trixie-slim@sha256:d7e12182ce18b85b93007c1dedf31f2d29e01ccf3182cc4017c709b6259bc132
     environment:
       GA_PROPERTY_ID:
         from_secret: ga_property_id
@@ -25,7 +22,11 @@ steps:
       GOOGLE_OAUTH_TOKEN:
         from_secret: google_oauth_token
     commands:
-      - './src/freecodecamp.sh > /tmp/README.md'
+      - 'apt-get update'
+      - 'apt-get install -y --no-install-recommends ca-certificates curl git jq locales'
+      - 'localedef -i en_GB -c -f UTF-8 -A /usr/share/locale/locale.alias en_GB.UTF-8'
+      - 'git config --global --add safe.directory /builds/*'
+      - 'LANG=en_GB.utf8 ./src/freecodecamp.sh > /tmp/README.md'
       - |
         if ! cmp -s ./README.md /tmp/README.md; then
           cp /tmp/README.md ./README.md
@@ -33,7 +34,7 @@ steps:
   push:
     image: docker.io/appleboy/drone-git-push:1.2.3@sha256:71458d7dad1813487b93f9d8546613c7f0c44aa4a29bb138b5eae378f7d6960a
     settings:
-      remote: ${CI_REPO_CLONE_SSH_URL}
+      remote: "ssh://git@git.falco.fun:222/SethFalco/.profile.git"
       branch: ${CI_REPO_DEFAULT_BRANCH}
       commit: true
       commit_message: 'chore(scheduled): update readme stats'
